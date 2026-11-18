@@ -1,0 +1,12 @@
+{
+  "name": "secret-santa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Таємний Санта для друзів (GitHub Pages)",
+  "scripts": {
+    "init": "node scripts/init.mjs",
+    "generate": "node scripts/generate.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}
